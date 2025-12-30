@@ -89,7 +89,7 @@ The dataset includes the following features:
 
 Boston Housing Prediction - Regression.ipynb
 
-### Model Evaluation
+##  Model Evaluation
 The model performance is evaluated using standard regression metrics such as:
 
 Mean Absolute Error (MAE)
@@ -100,7 +100,7 @@ R² Score
 
 These metrics help determine the accuracy and reliability of the prediction model.
 
-### Future Improvements
+##  Future Improvements
 Feature engineering
 
 Try multiple regression models
@@ -109,6 +109,6 @@ Hyperparameter tuning
 
 Model deployment using Flask or FastAPI
 
-###📄 License
+##  License
 This project is licensed under the MIT License.
 
