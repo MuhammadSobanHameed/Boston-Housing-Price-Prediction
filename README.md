@@ -14,11 +14,17 @@ This project applies **regression techniques** to build a predictive model and e
 ## 📂 Project Structure
 
 Boston-Housing-Regression/
+
 ├── Boston Housing Prediction - Regression.ipynb
+
 ├── Boston Dataset.csv
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── .gitignore
+
 └── LICENSE
 
 ---
